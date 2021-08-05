@@ -1,6 +1,8 @@
 
 # Find your hat
 
+[![wakatime](https://wakatime.com/badge/github/Sivavet/find-your-hat.svg)](https://wakatime.com/badge/github/Sivavet/find-your-hat)
+
 ## About This Game Project
 
 + In this game you will playing as a man who lost your hat. Control your characters ( * ) and find your ways to your hat ( ^ ) by avoid all holes ( O ) in the field.
